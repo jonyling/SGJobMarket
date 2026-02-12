@@ -156,7 +156,7 @@ def load_and_prepare(filepath: str) -> pd.DataFrame:
     return df
 
 
-DATA_PATH = "../data/SGJobData_part17.csv"
+DATA_PATH = "../data/SGJobData.csv"
 
 try:
     df = load_and_prepare(DATA_PATH)
