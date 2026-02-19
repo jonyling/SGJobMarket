@@ -10,4 +10,4 @@ dependencies:
   - pip
   - pip:
       - streamlit
-      - plotly
+      - plotly  - ipykernel
